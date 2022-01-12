@@ -51,6 +51,8 @@ var vm = {
 }
 </pre>
 What we actually need from there is the ***useVNC*** variable (key). Set it to **true**, and set ***serverAddress*** and ***serverPort*** to the address and port of a VNC server, to which you want the server to connect.
+
+By the way, you may wanna configure at least most of these settings. The comments provide descriptions for each setting, so you shouldn't really get confused.
 ### What if I want to use...
 Use what?
 #### QEMU?
