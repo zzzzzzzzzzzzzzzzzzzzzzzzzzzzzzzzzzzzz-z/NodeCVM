@@ -15,7 +15,7 @@ Go to the newly created folder with the name **nodecvm**, and If you're on Windo
 <pre>
 npm i ws jimp vnc-rfb-client image-size
 </pre>
-Now just wait for npm to install the needed packages. After all of that is done, simply type <code>node server.js</code> and the server will start in chat-only mode.
+Now just wait for npm to install the needed packages. After all of that is done, simply type <code>node server.js</code> and the server will start in chat-only mode. If you need to run it on a specific port, append the port number to the command line. So if for example you want to run the server at port 6004, you should do <code>node server.js 6004</code>. By default the server runs at port 6005.
 ### "Chat-only mode"? What's that?
 The chat-only mode is a "mode" similar to the (now gone) "So much win!" UserVM. As you may have guessed, it does not show anything useful on the VM screen.
 
