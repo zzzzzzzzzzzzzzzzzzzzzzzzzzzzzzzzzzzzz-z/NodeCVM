@@ -1,4 +1,5 @@
 # NodeCVM
+![NodeCVM Logo](nodecvmlogo.png)
 NodeCVM is a CollabVM server written in Node.js. It is pretty easy to use and is cross-platform (it should work on everything that node supports).
 ## How to get started
 First install Node.js by downloading it from its website (if you're on Windows) or by using a package manager (if you are on Linux or other). In the package manager its either going to be called <code>node</code> or something similar.
