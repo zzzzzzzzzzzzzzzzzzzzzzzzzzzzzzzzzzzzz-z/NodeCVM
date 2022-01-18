@@ -1,7 +1,7 @@
 # NodeCVM
 ![NodeCVM Logo](nodecvmlogo.png)
 NodeCVM is a CollabVM server written in Node.js. It is pretty easy to use and set-up.
-## What does NodeCVM have over the normal CollabVM server?
+## What does NodeCVM have compared to the normal CollabVM server?
 * The entire server does NOT require compilation (only some dependencies, and dependencies of those dependencies, ...)
   * Therefore, it's also cross-platform (available just about anywhere where node.js is available)
 * Support for reverse-proxying (like ngrok, localtunnel, etc)
